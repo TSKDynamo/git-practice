@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+version B
+=======
+version A
+>>>>>>> feature/a
